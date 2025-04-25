@@ -1,26 +1,26 @@
-This repository contains hands-on exercises, code samples, and project files from my Docker and Kubernetes learning journey.
+#This repository contains hands-on exercises, code samples, and project files from my Docker and Kubernetes learning journey.
 
-📦 Contents
-Docker Fundamentals: Images, containers, volumes, networking.
+##📦 Contents
+-Docker Fundamentals: Images, containers, volumes, networking.
 
-Kubernetes Core Concepts: Pods, Deployments, Services, Helm charts.
+-Kubernetes Core Concepts: Pods, Deployments, Services, Helm charts.
 
-Real-world Scenarios: Containerized applications, CI/CD pipelines.
+-Real-world Scenarios: Containerized applications, CI/CD pipelines.
 
-Best Practices: Security, scaling, and optimization techniques.
+-Best Practices: Security, scaling, and optimization techniques.
 
-🚀 Purpose
-Document my progress through the course.
+##🚀 Purpose
+-Document my progress through the course.
 
-Create reusable reference materials for containerization and orchestration.
+-Create reusable reference materials for containerization and orchestration.
 
-Share implementations of key concepts.
+-Share implementations of key concepts.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 Docker
 
-Kubernetes (Minikube/Kind/Cloud clusters)
+-Kubernetes (Minikube/Kind/Cloud clusters)
 
-YAML configurations
+-YAML configurations
 
-Container orchestration tools
+-Container orchestration tools
