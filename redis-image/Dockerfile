@@ -1,8 +1,9 @@
-# Use an existing docker image as a base
-From alpine
+FROM alpine
 
+# Step 2: Download and install dependency
 
-# Download and install a dependancy
+RUN apk add --update redis
 
+# Step 3: Tell the image what to do when it starts as container
 
-# Tell the image whaat to do when it start 
+CMD ["redis-server"]
